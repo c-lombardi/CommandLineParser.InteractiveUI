@@ -10,7 +10,7 @@
     
     <!-- NuGet Package Metadata -->
     <PackageId>CommandLineParser.InteractiveUI</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Christopher Lombardi</Authors>
     <Company>CommandLineParser.InteractiveUI</Company>
     <Product>CommandLineParser.InteractiveUI</Product>
@@ -19,7 +19,7 @@
     <Title>Interactive UI for CommandLineParser</Title>
     <Description>A powerful extension library for CommandLineParser that automatically generates interactive text-based UIs from your command-line verb definitions. Transform your CLI applications into user-friendly, menu-driven experiences without writing any additional UI code. Supports dual-mode operation (traditional CLI and interactive menus), type-aware input prompts, validation, and fluent configuration API.</Description>
     <PackageTags>commandline;cli;interactive;ui;menu;parser;console;terminal;tui;command-line</PackageTags>
-    <PackageReleaseNotes>Initial release with automatic UI generation, fluent builder API, and dual-mode support.</PackageReleaseNotes>
+    <PackageReleaseNotes>v1.0.1: Documentation improvements and package metadata updates. Fixed interface naming consistency in documentation (ICommandLineParser).</PackageReleaseNotes>
     
     <!-- Package Links -->
     <PackageProjectUrl>https://github.com/c-lombardi/CommandLineParser.InteractiveUI</PackageProjectUrl>
